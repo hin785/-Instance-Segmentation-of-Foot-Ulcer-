@@ -27,7 +27,7 @@ This project aims to assist in early diagnosis of diabetic foot ulcers by detect
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/hin785/Instance-Segmentation-of-Foot-Ulcer.git
+git clone https://github.com/gupta1807/Instance-Segmentation-of-Foot-Ulcer.git
 cd Instance-Segmentation-of-Foot-Ulcer
 pip install -r requirements.txt
 python inference.py --source sample.jpg --weights yolov8.pt
